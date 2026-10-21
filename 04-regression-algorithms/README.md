@@ -7,7 +7,7 @@ Using a housing dataset to predict house prices and a classification dataset to 
 ### Datasets
 
 - **USA Housing Dataset:** Contains features such as average area income, house age, number of rooms, population, and house prices.
-- **Classification Dataset:** Used for implementing and evaluating Logistic Regression, as applicable to the notebook.
+- **Diabetes Dataset:** Used for implementing and evaluating Logistic Regression, as applicable to the notebook.
 
 ### Prerequisites
 
